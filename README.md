@@ -19,4 +19,4 @@ Startup Setup: Allows setting the time and date upon startup
 Web-Based Dashboard: Monitor and control the MediBox through an online dashboard
 
 ## Simulation
-Try it out: You can simulate the Smart MediBox from {here}{https://wokwi.com/projects/391768414706216961}.
+Try it out: You can simulate the Smart MediBox from [here](https://wokwi.com/projects/391768414706216961).
