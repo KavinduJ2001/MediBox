@@ -1,3 +1,4 @@
+# MediBox Project for EN2853: Embedded Systems and Applications
 # Smart MediBox
 
 ## Inputs
