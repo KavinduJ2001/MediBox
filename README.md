@@ -1,17 +1,17 @@
-## Smart MediBox
+# Smart MediBox
 
-# Inputs
+## Inputs
 Control: Push buttons for MediBox settings
 External Sensor: Temperature and Humidity (DHT11)
 
-# Outputs
+## Outputs
 Sound Feedback: Buzzer
 Visual Feedback: OLED display and LED bulbs
 
-# Communication
+## Communication
 Wi-Fi: Enables connectivity and remote control
 
-# Features
+## Features
 Medication Reminders: Rings an alarm at scheduled times for medication
 Environmental Alerts: Rings an alarm when temperature or humidity levels are outside the recommended range
 Display Information: Shows time, date, and alarm details on the OLED display
