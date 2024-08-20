@@ -9,7 +9,7 @@ Sound Feedback: Buzzer
 Visual Feedback: OLED display and LED bulbs
 
 ## Communication
-Wi-Fi: Enables connectivity and remote control
+**Wi-Fi: Enables connectivity and remote control**
 
 ## Features
 Medication Reminders: Rings an alarm at scheduled times for medication
